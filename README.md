@@ -1,3 +1,7 @@
+# Этот проект является визуальной частью для моего проекта "техно-блога" ну или "новостного сайта".
+
+# This project is a visual for my "Techno Blog" or "News Site" project.
+
 # front_end
 
 ## Project setup
